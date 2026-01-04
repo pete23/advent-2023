@@ -1,10 +1,10 @@
 # advent
 
-A Clojure library designed to ... well, that part is up to you.
+This repo will consolidate my AoC attempts.
 
-## Usage
+Maybe we'll get serious, have utility functions?
 
-FIXME
+I can write terrible code that does a job.
 
 ## License
 

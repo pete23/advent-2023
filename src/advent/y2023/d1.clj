@@ -1,8 +1,5 @@
-(ns advent.y2023.d1)
-
-(defn ctoi [c]
-  (let [i (- (int c) (int \0))]
-    (when (<= 0 i 9) i)))
+(ns advent.y2023.d1
+  (:require [advent.core :refer [ctoi]]))
 
 (defn calc [digits]
   (+ (* 10 (first digits)) (last digits)))
